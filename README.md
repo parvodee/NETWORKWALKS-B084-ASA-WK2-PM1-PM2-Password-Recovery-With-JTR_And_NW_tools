@@ -1,0 +1,2 @@
+# NETWORKWALKS-B084-ASA-WK2-PM1-PM2-Password-Recovery-With-JTR_And_NW_tools
+This repository documents the use of John the Ripper (JTR) and Johnny (GUI) to assess password strength in a controlled and authorized environment.  The project demonstrates how weak passwords can be identified through password auditing techniques and highlights the importance of implementing strong password security practices.
